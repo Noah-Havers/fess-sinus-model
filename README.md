@@ -1,1 +1,0 @@
-# fess-sinus-model
