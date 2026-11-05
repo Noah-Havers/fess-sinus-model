@@ -7,3 +7,4 @@ Open the model: https://noah-havers.github.io/fess-sinus-model/
 This is a simplified teaching model, not the anatomy of any patient. It is for education only and must not be used for clinical decisions or surgical planning.
 
 Copyright Noah Havers 2026. Licensed under CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
