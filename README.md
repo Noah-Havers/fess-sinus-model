@@ -1,4 +1,4 @@
-# FESS anterior sinus model (v1.11.2)
+# FESS anterior sinus model (v1.11.3)
 
 A schematic 3D model of the anterior sinus complex, designed to help surgical trainees learn the anatomy of anterior functional endoscopic sinus surgery (FESS). It runs in any modern web browser on a computer, tablet or phone.
 
